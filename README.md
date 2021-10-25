@@ -16,7 +16,7 @@ This flutter application is implemented flutter_bloc based authentication.
 
 ## GIF
 
-<img src="https://github.com/Insha-Siddiquii/flutter-whatsApp-ui/blob/master/snaps/whatsapp.gif"  height="550">
+<img src="https://github.com/Insha-Siddiquii/flutter_bloc_authorization/blob/master/assets/gif/2021-10-25_23-40-15.gif"  height="550">
 
 ## Next Release
 
